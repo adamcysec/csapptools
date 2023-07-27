@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/csapptools/__init__.py
+src/csapptools/librariesiolib.py
+src/csapptools/pypilib.py
+src/csapptools.egg-info/PKG-INFO
+src/csapptools.egg-info/SOURCES.txt
+src/csapptools.egg-info/dependency_links.txt
+src/csapptools.egg-info/top_level.txt
